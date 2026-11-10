@@ -41,9 +41,7 @@
 		<meta property="term" refines="#subject-3">sh85067715</meta>
 		<meta property="schema:genre">TAG</meta>
 		<dc:description id="description">An enduring classic that captures an era when stock market manipulation was legal and fortunes vanished overnight.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
-		  <p>'Reminiscences of a Stock Operator' is a 1923 roman à clef by American author Edwin Lefèvre. It is told in the first person by a character, in the book called Larry Livingston, inspired by the life of stock trader Jesse Livermore up to the time of writing.</p>
-		</meta>
+		<meta id="long-description" property="se:long-description" refines="#description"><p>'Reminiscences of a Stock Operator' is a 1923 roman à clef by American author Edwin Lefèvre. It is told in the first person by a character, in the book called Larry Livingston, inspired by the life of stock trader Jesse Livermore up to the time of writing.</p></meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/60979</dc:source>
 		<dc:source>https://archive.org/details/reminiscencesofs0000edwi</dc:source>
