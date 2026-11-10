@@ -40,13 +40,13 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85067715</meta>
 		<meta property="schema:genre">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An enduring classic that captures an era when stock market manipulation was legal and fortunes vanished overnight.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p><i>Reminiscences of a Stock Operator</i> by Edwin Lefèvre is a roman à clef published in 1923. Told through the fictional Larry Livingston—inspired by legendary trader Jesse Livermore—the book chronicles decades of Wall Street triumphs and disasters. From exploiting bucket shops with massive leverage to navigating boom-and-bust cycles on the New York Stock Exchange, it reveals the psychological warfare of speculation. Called "a font of investing wisdom" by Alan Greenspan, this enduring classic captures an era when market manipulation was legal and fortunes vanished overnight.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/60979</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
+		<dc:source>https://archive.org/details/reminiscencesofs0000edwi</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
 		<link href="https://en.wikipedia.org/wiki/Reminiscences_of_a_Stock_Operator" rel="schema:sameAs"/>
@@ -55,7 +55,6 @@
 		<link href="https://github.com/standardebooks/edwin-lefevre_reminiscences-of-a-stock-operator" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Edwin Lefevre</dc:creator>
 		<meta property="file-as" refines="#author">Lefevre, Edwin</meta>
-		<meta property="schema:alternateName" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<link href="https://en.wikipedia.org/wiki/Edwin_Lefevre" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50037985.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -64,21 +63,16 @@
 		<link href="COVER_ARTIST_WIKI_URL" refines="#artist" rel="schema:sameAs"/>
 		<link href="COVER_ARTIST_NACOAF_URI" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<link href="TRANSCRIBER_1_URL" refines="#transcriber-1" rel="schema:url"/>
+		<dc:contributor id="transcriber-1">Charlie Howard</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Howard, Charlie</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<link href="TRANSCRIBER_2_URL" refines="#transcriber-2" rel="schema:url"/>
+		<dc:contributor id="transcriber-2">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders</meta>
+		<link href="https://www.pgdp.net/" refines="#transcriber-2" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<link href="PRODUCER_URL" refines="#producer-1" rel="schema:url"/>
+		<dc:contributor id="producer-1">Pete Fairhurst</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Fairhurst, Pete</meta>
+		<link href="https://www.markedup.co.uk/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
