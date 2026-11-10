@@ -44,7 +44,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			<p><i>Reminiscences of a Stock Operator</i> by Edwin Lefèvre is a roman à clef published in 1923. Told through the fictional Larry Livingston—inspired by legendary trader Jesse Livermore—the book chronicles decades of Wall Street triumphs and disasters. From exploiting bucket shops with massive leverage to navigating boom-and-bust cycles on the New York Stock Exchange, it reveals the psychological warfare of speculation. Called "a font of investing wisdom" by Alan Greenspan, this enduring classic captures an era when market manipulation was legal and fortunes vanished overnight.</p>
 		</meta>
-		<dc:language>en-GB</dc:language>
+		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/60979</dc:source>
 		<dc:source>https://archive.org/details/reminiscencesofs0000edwi</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
