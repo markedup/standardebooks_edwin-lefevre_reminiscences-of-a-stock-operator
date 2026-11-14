@@ -1,0 +1,1 @@
+{ "experimentalTernaries": false, "useTabs": true, "tabWidth": 2, "singleAttributePerLine": false, "printWidth": 999999, "objectWrap": "collapse", "proseWrap": "never" }
